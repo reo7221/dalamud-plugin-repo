@@ -1,5 +1,5 @@
 plugins:
   - repo: https://github.com/Haselnussbomber/HaselTweaks
     asset_name: latest.zip
-    manifest_asset_name: manifest.json
+    manifest_name: manifest.json
     enabled: true
