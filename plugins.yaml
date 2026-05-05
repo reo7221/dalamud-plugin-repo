@@ -1,5 +1,5 @@
-plugins:
-  - repo: https://github.com/Haselnussbomber/HaselTweaks
-    asset_name: latest.zip
-    manifest_name: manifest.json
-    enabled: true
+# plugins:
+#   - repo: https://github.com/erdelf/AutoDuty
+#     asset_name: latest.zip
+#     manifest_name: AutoDuty.json
+#     enabled: true
